@@ -1,0 +1,25 @@
+# Godot 4
+.godot/
+*.translation
+
+# Godot exported builds
+exports/
+*.pck
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python (for tooling scripts)
+__pycache__/
+*.pyc
+.venv/
